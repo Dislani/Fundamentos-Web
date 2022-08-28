@@ -53,19 +53,23 @@ img {
   text-align: center;
   
 }
-.estilo{
-  background-color:rgba(218, 185, 166, 0.993);
-   border-color:aliceblue;
-    margin-left: 5px;
-    font-weight: 200;
-}
-.estilo1{
-  background-color: rgba(218, 185, 166, 0.87);
-  font-family: sans-serif;
-}
+
 .estilo2{
   font-size: 30px; 
   color: rgb(144, 83, 161);
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+.tam-social{
+  width:40px ;
+  right: 40px;
+  padding: 10px;
+  margin-left: 10px;
+}
+
+.margin-left{
+  margin-left: 70px;
+}
+.button{
+  margin-bottom: 30px;
+}
